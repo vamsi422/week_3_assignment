@@ -56,3 +56,45 @@ use starknet::storage::{StorageMapReadAccess, StorageMapWriteAccess,Map};
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// command to deploy contract $ sncast \
+//   --account my_account \
+//   declare \
+//   --network sepolia \
+//   --contract-name RewardPointsMechanism
+
+
+        // 0x02b3e1403df05224dca1fd07e117ae15cae2d36da1e100ae7ed6bbad30deab21 account address
+
+// $ sncast \
+//     --account my_account \
+//     deploy \
+//     --network sepolia \
+//     --class-hash 0x05ebbc540492c2f103428df9882bc9d8b3ef97a57d904458157de62e19cf4a27
+
+
+
+
+
+

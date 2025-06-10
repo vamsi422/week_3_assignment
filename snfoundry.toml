@@ -14,5 +14,5 @@ url="https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_8/XRmBcyrAKn
 account="sepolia"
 
 [sncast.default]
-account = "test_acc_1"
+account = "my_acc"
 
